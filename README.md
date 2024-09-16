@@ -1,4 +1,3 @@
-Welcome to the 4-point-DIT-FFT wiki!
 # Radix-2 4-Point Decimation in Time Fast Fourier Transform (DIT FFT) using Verilog HDL
 
 ## 1. Introduction
